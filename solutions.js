@@ -1,6 +1,6 @@
 // Sum of Two Numbers
 function sum(a, b) {
-  // Add your code here
+  return a + b;
 }
 
 // Factorial of a Number
